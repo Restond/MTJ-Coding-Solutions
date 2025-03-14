@@ -21,7 +21,7 @@
 - [项目主页](https://github.com/Restond/-)
 
 ## 🤝 贡献指南
-欢迎大家贡献代码或提出建议。请阅读 [贡献指南](CONTRIBUTING.md) 以了解详细的贡献流程。
+欢迎大家贡献代码或提出建议。通过QQ：2313494015 或 微信 Felix_TV。
 
 ## 📄 许可证
 本项目使用 [MIT License](LICENSE) 进行许可。
