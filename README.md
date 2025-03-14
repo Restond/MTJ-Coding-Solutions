@@ -1,8 +1,6 @@
 # 码蹄集题库答案库 | MTJ Coding Solutions
 
 **最后更新：2025-03-14**  
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/yourrepo?label= 最近更新)
-![License](https://img.shields.io/badge/License-MIT-green) 
 
 ## 🚨 声明
 ### 定位说明
