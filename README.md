@@ -1,4 +1,4 @@
-# 码蹄集题库答案库 | MTJ Coding Solutions
+# 码蹄集答案库 | MTJ Coding Solutions
 
 **最后更新：2025-03-14**  
 
