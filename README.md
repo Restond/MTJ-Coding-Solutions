@@ -16,7 +16,6 @@
 
 ## 🔗 相关链接
 - [码蹄集官网](https://www.matiji.net)
-- [项目主页](https://github.com/Restond/-)
 
 ## 🤝 贡献指南
 欢迎大家贡献代码或提出建议。通过QQ：2313494015 或 微信 Felix_TV。
