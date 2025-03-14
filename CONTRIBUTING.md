@@ -1,6 +1,6 @@
 # Contributing to Restond
 
-首先感谢您对 Restond 项目的关注！我们非常高兴您有兴趣为这个项目做出贡献。请按照以下指南提交您的贡献。
+首先感谢您对 MTJ Coding Solutions 项目的关注！我们非常高兴您有兴趣为这个项目做出贡献。请按照以下指南提交您的贡献。
 
 ## 如何贡献
 
@@ -51,4 +51,4 @@
 
 所有的 Pull Request 都将由项目维护者进行审查。我们会尽快回复您的提交并提供反馈。
 
-感谢您对 Restond 项目的贡献！
+感谢您对 MTJ Coding Solutions 项目的贡献！
