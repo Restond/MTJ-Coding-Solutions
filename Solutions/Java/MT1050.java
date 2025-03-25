@@ -3,7 +3,6 @@ import java.util.Scanner;
 class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        //输入在三维空间的三角形三个顶点A，B，C的坐标（x,y,z），计算并输出三角形面积。不考虑不能构成三角形的特殊情况。
 
         double x1 = input.nextDouble();
         double y1 = input.nextDouble();
